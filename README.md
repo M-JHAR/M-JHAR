@@ -1,11 +1,10 @@
 # Hi there, I'm Mustafa 👋  
 
-🎓 **Computer Engineer** | 💻 **Frontend Developer** | 📚 **Learning React & TypeScript**  
+🎓 **Computer Engineer** | 💻 **Frontend Developer** 
 
-- 🔭 I’m currently working on **React & Laravel Projects**  
+- 🔭 I’m currently working on **React Projects**  
 - 🌱 Building strong foundations in **Frontend Development**  
-- 🎮 Interested in **Game Development (C++ & Unreal Engine)**  
-- 📫 Reach me at: **your-email@example.com**  
+- 📫 Reach me at: **jharmostafal@example.com**  
 
 ---
 
@@ -16,19 +15,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-
----
-
-## 📌 Pinned Projects
-- 🔗 [**Portfolio Website**](https://github.com/your-username/portfolio) – Personal portfolio built with React  
-- 🔗 [**Form Builder**](https://github.com/your-username/form-builder) – Dynamic form builder with Laravel + React  
-- 🔗 [**Max Payne Style Game**](https://github.com/your-username/maxpayne-game) – C++ graduation project  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
 
 ---
 
