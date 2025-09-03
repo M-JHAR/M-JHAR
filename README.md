@@ -1,7 +1,6 @@
 # Hi there, I'm Mustafa 👋  
 
-🎓 **Computer Engineer** | 💻 **Frontend Developer** 
+🎓 **Game Developer** 
 
-- 🔭 I’m currently working on **React Projects**  
-- 🌱 Building strong foundations in **Frontend Development**  
+- 🔭 I’m currently working on **Unity**  
 - 📫 Reach me at: **jharmostafa@gmail.com**  
